@@ -12,12 +12,9 @@
     width="100%" />
 </div>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yabuki-gaia&theme=gruvbox)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yabuki-gaia&theme=gruvbox)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yabuki-gaia&theme=gruvbox)
-
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+yabuki+👋;Go+Developer+%F0%9F%9A%80;Always+Learning+New+Things" />
+</div>
 
 <div align="center">
   <img
